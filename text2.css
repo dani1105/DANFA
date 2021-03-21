@@ -1,0 +1,252 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+.foot img{
+	height: 200px;
+}
+.Nom{
+	font-size: 60px;
+	font-family: "Arial Black", sans-serif;
+	color: #C6A76F;
+}
+.navigateur{	
+	width:100%;
+	background-color: #222A35;
+	position: -webkit-sticky; /* Safari */
+    position: sticky;
+}
+.navigateur h1{
+	color: #C6A76F;
+	font-size: 40px;
+	font-family: cursive;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.partie{
+	font-size: 20px;
+	color:black;
+	font-family:'Impact', fantaisie;
+	text-align: justify;
+	padding-top: 10px;
+}
+.Image1{
+	width: 500px;
+	height: 500px;
+	position: center;
+}
+.Image2{
+	width: 300px;
+	height: 300px;
+	position:center;
+}
+.partie span{
+	color:#C6A76F;
+	font-family: cursive;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.partie1{
+	display: inline-flex;
+}
+.part1{
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.part2{
+	margin-top: 30px;
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.partie2{
+	display: inline-flex;
+	margin-top: 10px;
+}
+.part3{
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.part4{
+	margin-top: 50px;
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.partie3{
+	display: inline-flex;
+	margin-top: 10px;
+}
+.part5{
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.part6{
+	margin-top: 50px;
+	margin-right: 15px;
+	margin-left: 30px;
+}
+.loi{
+	font-size: 40px;
+	color:#222A35;
+}
+.loi span{
+	text-decoration: underline;
+	color: #C6A76F;
+}
+.Fichier a{
+	display: inline-block;
+	font-size: 60px;
+	font-weight: 30px;
+	background-color: #C6A76F;
+	border:2px solid black;
+	border-radius: 5px;
+}
+.Fichier a:hover{
+	background:none;
+	border:2px dashed black;
+	color: #222A35;
+}
+.Gard {
+	font-size: 20px;
+	color:black;
+	font-family:'Parkavenue', cursive;
+	text-align: justify;
+	padding-top: 10px;
+}
+.Gard span{
+	color:#C6A76F;
+	font-family: 'Impact',fantasy;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 
+}
+.Gard1{
+	display: inline-flex;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.Gard2{
+	display: inline-flex;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px; 
+}
+
+.G1{
+	padding-right: 15px;
+	
+}
+.Def{
+	font-size: 20px;
+	color:black;
+	font-family:'Florence',cursive;
+	padding-top: 10px;
+	display: justify;
+}
+.Def1{
+	display: flex;
+}
+}
+.Def2{
+	display: flex;
+}
+.Def span{
+	color:#C6A76F;
+	font-family: fantasy;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.Mil{
+	font-size: 20px;
+	color:black;
+	font-family:fantasy;
+	text-align: justify;
+	padding-bottom: 20px;
+}
+.Mil1{
+	display: inline-flex;
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+.Mil2{
+	display: inline-flex;
+	margin-top:10px; 
+	margin-left: 15px;
+	
+}
+.Mil span{
+	color:#C6A76F;
+	font-family: 'impact',fantaisie;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.Mil3{
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.Mil4{
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.Att{
+	font-size: 20px;
+	color:black;
+	font-family:"Times News Roman" sans-serif;
+	text-align: justify;
+	padding-top: 10px;
+	display: inline-flex;
+}
+.Att1{
+	display: inline-flex;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+.Att2{
+	display: inline-flex;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+.Att span{
+	color:#C6A76F;
+	font-family: "impact";
+	font-weight: bold;
+	text-decoration: underline;
+}
+.Att3{
+	margin-left: 15px;
+}
+.Att4{
+	margin-left:  20px;
+}
+.Amateur{
+	font-size: 20px;
+	color: #808080;
+	text-align: justify;
+	position: center;
+}
+.Amateur span{
+	color:#0000A0;
+	font-family:"impact" ;
+	font-weight: bold;
+}
+.Amateur1{
+	font-size: 40px;
+	text-align: center;
+}
+.Amateur1 p{
+	color: #C6A76F;
+	font-family:"Algerian" sans-serif ;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.pied{
+	background-color:#C6A76F;
+	display:block;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-family:'Syne Mono', monospace; 
+	
+}
+
+
